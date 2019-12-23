@@ -1,4 +1,4 @@
-FROM python:3.7.1-slim-stretch
+FROM python:3.8.1-slim-buster
 
 RUN apt-get update && \ 
     apt-get install nano git -y

@@ -9,4 +9,4 @@ docker run -p 8888:8888 --privileged --device=/dev/ttyUSB0 -it lemariva/upyjupyt
 ```
 
 ## More Info
-[MicroPython: Programming an ESP using Jupyter Notebook](https://lemariva.com/blog/2018/12/micropython-programming-an-esp-using-jupyter-notebook) - coming soon!
+[MicroPython: Programming an ESP using Jupyter Notebook](https://lemariva.com/blog/2019/01/micropython-programming-an-esp-using-jupyter-notebook)
